@@ -10,7 +10,6 @@ pipe characters for each digit. Each digit is shown below
 |.|   ..|   ._|   ._|   |_|   |_.   |_.   ..|   |_|   |_|
 |_|   ..|   |_.   ._|   ..|   ._|   |_|   ..|   |_|   ..|
 ```
-
 Example: 910
 
 ```
